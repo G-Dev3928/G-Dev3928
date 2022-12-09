@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @G-Dev3928
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently learning Web Development 
-- 📫 How to reach me - Contact me on my email and please mention from or via github so I will easily understand and my email is devsanshlfpsyv3928@gmail.com
+- 👋 Hi, I’m @G-Dev3928.
+- 👀 I’m interested in Web Designing , Web Development, I.T, Ethical hacking and Data Managment.
+- 🌱 I’m currently learning Web Development & Data Management. 
+- 📫 How to reach me - Contact me on my email and please mention from or via github so I will easily understand and my email is devsanshlfpsyv3928@gmail.com.
 
 <!---
 G-Dev3928/G-Dev3928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
